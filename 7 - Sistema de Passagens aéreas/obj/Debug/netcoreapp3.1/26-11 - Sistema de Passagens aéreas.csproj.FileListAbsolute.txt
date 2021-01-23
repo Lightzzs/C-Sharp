@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\bin\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.exe
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\bin\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.deps.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\bin\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\bin\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\bin\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\bin\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\26-11 - Sistema de Passagens aéreas\obj\Debug\netcoreapp3.1\26-11 - Sistema de Passagens aéreas.genruntimeconfig.cache

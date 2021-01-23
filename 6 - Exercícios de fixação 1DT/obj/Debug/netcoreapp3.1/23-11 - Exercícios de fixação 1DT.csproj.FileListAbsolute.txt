@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\bin\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.exe
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\bin\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.deps.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\bin\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\bin\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\bin\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\bin\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\23-11 - Exercícios de fixação 1DT\obj\Debug\netcoreapp3.1\23-11 - Exercícios de fixação 1DT.genruntimeconfig.cache
