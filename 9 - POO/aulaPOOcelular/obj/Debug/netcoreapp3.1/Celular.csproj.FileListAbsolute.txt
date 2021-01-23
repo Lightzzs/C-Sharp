@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\bin\Debug\netcoreapp3.1\Celular.exe
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\bin\Debug\netcoreapp3.1\Celular.deps.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\bin\Debug\netcoreapp3.1\Celular.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\bin\Debug\netcoreapp3.1\Celular.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\bin\Debug\netcoreapp3.1\Celular.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\bin\Debug\netcoreapp3.1\Celular.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\10 - Criando um sistema orientado à objetos\Celular\obj\Debug\netcoreapp3.1\Celular.genruntimeconfig.cache
