@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\bin\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.exe
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\bin\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.deps.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\bin\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\bin\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\bin\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\bin\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\17-11 - Laços while, do while , for\obj\Debug\netcoreapp3.1\17-11 - Laços while, do while , for.genruntimeconfig.cache
