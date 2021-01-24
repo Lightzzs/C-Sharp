@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\bin\Debug\netcoreapp3.1\POO_ Interface.exe
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\bin\Debug\netcoreapp3.1\POO_ Interface.deps.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\bin\Debug\netcoreapp3.1\POO_ Interface.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\bin\Debug\netcoreapp3.1\POO_ Interface.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\bin\Debug\netcoreapp3.1\POO_ Interface.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\bin\Debug\netcoreapp3.1\POO_ Interface.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.dll
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.pdb
+C:\Users\VINICIUS\Desktop\REVISANDO ATIVIDADES\9 - POO\POO_ Interface\obj\Debug\netcoreapp3.1\POO_ Interface.genruntimeconfig.cache
